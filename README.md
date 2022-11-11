@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Parteek Jamwal</h1>
 <h3 align="center">A passionate web & blockchain developer.</h3>
 
-- 🌱 I’m currently learning **blockchain and DeFi.**
+- 🌱 I’m currently learning **Machine Learning & Artificial Intelligence.**
 
 - 📫 How to reach me **parteeksjamwal@gmail.com**
 
